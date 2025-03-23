@@ -20,4 +20,4 @@ A console-based application built in C# for managing a basketball competition. T
 
 ## Getting Started
 
-### Project made with Visual Studio Code
+### Project made with Visual Studio 
